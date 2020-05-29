@@ -1,0 +1,12 @@
+E:\lab 8 semenov\Library-master\XMLGUI\bin\Debug\XMLGUI.exe.config
+E:\lab 8 semenov\Library-master\XMLGUI\bin\Debug\XMLGUI.exe
+E:\lab 8 semenov\Library-master\XMLGUI\bin\Debug\XMLGUI.pdb
+E:\lab 8 semenov\Library-master\XMLGUI\obj\Debug\XMLGUI.csprojAssemblyReference.cache
+E:\lab 8 semenov\Library-master\XMLGUI\obj\Debug\XMLGUI.Forms.FilterProperties.resources
+E:\lab 8 semenov\Library-master\XMLGUI\obj\Debug\XMLGUI.Forms.InsertBook.resources
+E:\lab 8 semenov\Library-master\XMLGUI\obj\Debug\XMLGUI.Forms.InsertReader.resources
+E:\lab 8 semenov\Library-master\XMLGUI\obj\Debug\XMLGUI.XMLViewer.resources
+E:\lab 8 semenov\Library-master\XMLGUI\obj\Debug\XMLGUI.Properties.Resources.resources
+E:\lab 8 semenov\Library-master\XMLGUI\obj\Debug\XMLGUI.csproj.GenerateResource.cache
+E:\lab 8 semenov\Library-master\XMLGUI\obj\Debug\XMLGUI.exe
+E:\lab 8 semenov\Library-master\XMLGUI\obj\Debug\XMLGUI.pdb

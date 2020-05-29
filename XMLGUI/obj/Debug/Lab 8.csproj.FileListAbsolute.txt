@@ -1,0 +1,12 @@
+E:\labs c# 6 семестр\Lab 8\XMLGUI\bin\Debug\XMLGUI.exe.config
+E:\labs c# 6 семестр\Lab 8\XMLGUI\bin\Debug\XMLGUI.exe
+E:\labs c# 6 семестр\Lab 8\XMLGUI\bin\Debug\XMLGUI.pdb
+E:\labs c# 6 семестр\Lab 8\XMLGUI\obj\Debug\Lab 8.csprojAssemblyReference.cache
+E:\labs c# 6 семестр\Lab 8\XMLGUI\obj\Debug\XMLGUI.Forms.FilterProperties.resources
+E:\labs c# 6 семестр\Lab 8\XMLGUI\obj\Debug\XMLGUI.Forms.InsertBook.resources
+E:\labs c# 6 семестр\Lab 8\XMLGUI\obj\Debug\XMLGUI.Forms.InsertReader.resources
+E:\labs c# 6 семестр\Lab 8\XMLGUI\obj\Debug\XMLGUI.XMLViewer.resources
+E:\labs c# 6 семестр\Lab 8\XMLGUI\obj\Debug\XMLGUI.Properties.Resources.resources
+E:\labs c# 6 семестр\Lab 8\XMLGUI\obj\Debug\Lab 8.csproj.GenerateResource.cache
+E:\labs c# 6 семестр\Lab 8\XMLGUI\obj\Debug\XMLGUI.exe
+E:\labs c# 6 семестр\Lab 8\XMLGUI\obj\Debug\XMLGUI.pdb
