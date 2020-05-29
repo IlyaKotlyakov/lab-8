@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <reader num="1" sname="Иванов">
+    <book name="Дети капитана Гранта" author="Ж. Верн" date="02.05.2020" days="30" izdat="Дрофа" price="500" year="2018" />
+    <book name="Чёрт из табакерки" author="Д. Донцова" date="16.05.2020" days="5" izdat="Бульварное чтиво" price="300" year="2020" />
+    <book name="Гарри Поттер и Философский Камень" author="Дж. Роулинг" date="23.05.2020" days="100" izdat="Питер" price="400" year="2020" />
+  </reader>
+  <reader num="2" sname="Петров">
+    <book name="Сказка о царе Салтане" author="А.Пушкин" date="22.02.2020" days="100" izdat="Русь" price="150" year="2011" />
+  </reader>
+</library>
