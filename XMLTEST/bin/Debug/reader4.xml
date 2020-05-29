@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <reader num="1" sname="Иванов">
+    <book name="Дети капитана Гранта" author="Ж. Верн" date="02.05.2020" days="30" izdat="Дрофа" price="500" year="2018" />
+  </reader> 
+</library>
